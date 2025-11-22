@@ -121,3 +121,19 @@ Zakres pracy
 -Różnice w wielkości liter w systemie Linux.
 
 -Znaczenie i składnia uprawnień numerycznych (np. 777).
+
+Efekt końcowy
+
+W efekcie powstało w pełni skonfigurowane środowisko Linux z działającymi usługami i przetestowaną funkcjonalnością:
+
+-sprawnie działająca komunikacja sieciowa,
+
+-skonfigurowany SSH i Telnet,
+
+-uruchomiony serwer Apache,
+
+-działający serwer FTP,
+
+-poprawnie ustawione uprawnienia i użytkownicy,
+
+-uporządkowana wiedza o kluczowych komponentach systemu Linux.
